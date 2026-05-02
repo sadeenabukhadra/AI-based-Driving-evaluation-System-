@@ -59,6 +59,7 @@ npm run dev
 
 
 
+SHH_KEY is sorted in ->./env.local
 
 
 
