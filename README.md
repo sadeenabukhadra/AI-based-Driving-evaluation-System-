@@ -1,4 +1,4 @@
-# 🚗 Driving Chatbot (Jordan)
+#  Driving Chatbot (Jordan)
 
 ##  Overview
 This is an AI-powered chatbot that helps students prepare for driving exams in Jordan.  
@@ -24,7 +24,7 @@ It answers questions about traffic rules, road signs, and driving safety.
 
 ---
 
-## 🚀 How it works
+##  How it works
 User → Frontend → API Route → OpenAI → Response → UI
 
 ---
