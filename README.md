@@ -56,7 +56,7 @@ npm run dev
 ![OUTPUT](link_server.png)
 
 
-SHH_KEY sortein ->./env.local
+SHH_KEY is sorted in ->./env.local
 
 
 
