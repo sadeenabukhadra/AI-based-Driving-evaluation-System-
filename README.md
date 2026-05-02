@@ -49,7 +49,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 First, run the development server:
+##Command Run
+npm run dev
+![OUTPUT](link_server.png)
 
+
+##Responses
+![Arabic Response](response_arabic.png)
+![English Response](response_english.png)
 ```bash
 npm run dev
 # or
