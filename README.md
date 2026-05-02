@@ -55,11 +55,12 @@ First, run the development server:
 
 
 ##Command Run
-
 npm run dev
 
 
 ![OUTPUT](link_server.png)
+
+
 
 
 
@@ -77,11 +78,3 @@ npm run dev
 
 
 ![English Response](response_english.png)
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
